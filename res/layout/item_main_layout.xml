@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/list_main"
+    android:gravity="center"
+     >
+
+    <TextView
+        android:id="@+id/idDanhMuc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+      />
+    
+    <TextView
+        android:id="@+id/tvCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="5.0dip"
+        android:layout_marginTop="3dip"
+        android:gravity="center"
+        android:maxLines="2"
+        android:padding="6.0pt"
+        android:shadowColor="#ff000000"
+        android:shadowDx="3.0"
+        android:shadowDy="3.0"
+        android:shadowRadius="1.0"
+        android:text="Bí quyết làm bánh"
+        android:textColor="#ffffffff"
+        android:textSize="11.5pt"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Món Việt</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Mời chọn thể loại</string>
+    <string name="title_activity_danhsachmon">Danh sách món</string>
+    <string name="title_activity_mon_an">Món ngon</string>
+    <string name="title_activity_splash_screen">Món ngon</string>
+
+</resources>
